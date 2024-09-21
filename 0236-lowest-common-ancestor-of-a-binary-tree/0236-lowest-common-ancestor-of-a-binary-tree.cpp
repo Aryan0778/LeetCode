@@ -16,6 +16,7 @@ public:
         if(find(root->left,x,a) || find(root->right,x,a)) return true;
         a.pop_back();
         return false;
+
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
        vector<TreeNode*>a1,a2;
