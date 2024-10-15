@@ -22,12 +22,8 @@ class Solution{
 
 public:
     int floor(Node* root, int x) {
-    int ans=1e6;
+         int ans=1e6;
     while(root){
-        if(root->data==x){
-            ans=root->data;
-            return ans;
-        }
         if(root->data>x){
             root=root->left;
         }
