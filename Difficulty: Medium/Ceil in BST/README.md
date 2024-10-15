@@ -27,5 +27,4 @@ X = 6
 Explanation: </strong>We find 7 in BST, so ceil
 of 6 is 7.</span></pre>
 <p><span style="font-size: 18px;"><strong>Your task:</strong><br>You don't need to read input or print anything. Just complete the function <strong>findCeil</strong>() to implement ceil in BST which returns the ceil of&nbsp;<strong>X&nbsp;</strong>in the given&nbsp;<strong>BST.</strong></span></p>
-<p><span style="font-size: 18px;"><strong>Expected Time Complexity:&nbsp;</strong>O(Height of the BST)<br><strong>Expected Auxiliary Space:&nbsp;</strong>O(Height of the BST).</span></p>
 <p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 &lt;= Number of nodes &lt;= 10<sup>5</sup><br>1 &lt;= Value of nodes&lt;= 10<sup>5</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Samsung</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Binary Search Tree</code>&nbsp;<code>Data Structures</code>&nbsp;
