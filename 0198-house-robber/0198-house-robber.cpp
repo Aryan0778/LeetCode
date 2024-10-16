@@ -1,15 +1,23 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-    int n=nums.size();
-    vector<int>dp(n+1,-1);
-    return findmax(nums,n-1,dp);   
+    int maxm(vector<int>&nums,vector<int>&dp,int ind){
+        if(ind<0) return 0;
+        if(ind==0) return nums[0];
+        if(dp[ind]!=-1) return dp[ind];
+        int l=maxm(nums,dp,ind-1);
+        int r=nums[ind]+maxm(nums,dp,ind-2);
+        return dp[ind]=max(l,r);
     }
-    int findmax(vector<int>& nums,int n,vector<int>& dp){
-        if(n<0) return 0;
-        if(dp[n]!=-1) return dp[n];
-        int pick=nums[n]+findmax(nums,n-2,dp);
-        int notpick=findmax(nums,n-1,dp);
-        return dp[n]=max(pick,notpick);
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        vector<int>dp(n+1,0);
+        dp[0]=0;
+        dp[1]=nums[0];
+        for(int i=2;i<=n;i++){
+            int l=dp[i-1];
+            int r=dp[i-2]+nums[i-1];
+            dp[i]=max(l,r);
+        }
+        return dp[n];
     }
 };
