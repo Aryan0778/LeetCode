@@ -22,14 +22,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
