@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
