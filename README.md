@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan0778/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryan0778/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Binary Search
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
@@ -63,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryan0778/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
