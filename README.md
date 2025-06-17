@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryan0778/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Aryan0778/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan0778/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
