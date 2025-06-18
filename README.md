@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3885-count-special-triplets](https://github.com/Aryan0778/LeetCode/tree/master/3885-count-special-triplets) |
 ## Breadth-First Search
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan0778/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3893-generate-tag-for-video-caption](https://github.com/Aryan0778/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Aryan0778/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
