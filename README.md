@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Aryan0778/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Aryan0778/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3885-count-special-triplets](https://github.com/Aryan0778/LeetCode/tree/master/3885-count-special-triplets) |
 ## Binary Search
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan0778/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Aryan0778/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 ## Stack
 |  |
 | ------- |
