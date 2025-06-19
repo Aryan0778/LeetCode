@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryan0778/LeetCode/tree/master/0007-reverse-integer) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aryan0778/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Array
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aryan0778/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [3893-generate-tag-for-video-caption](https://github.com/Aryan0778/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -177,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
