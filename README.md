@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan0778/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Aryan0778/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aryan0778/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Aryan0778/LeetCode/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aryan0778/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aryan0778/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Aryan0778/LeetCode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Brainteaser
