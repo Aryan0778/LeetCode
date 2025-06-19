@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aryan0778/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan0778/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Aryan0778/LeetCode/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Aryan0778/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Aryan0778/LeetCode/tree/master/0386-lexicographical-numbers) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aryan0778/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [3893-generate-tag-for-video-caption](https://github.com/Aryan0778/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aryan0778/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan0778/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Aryan0778/LeetCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Brainteaser
 |  |
@@ -166,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
