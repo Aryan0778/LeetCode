@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryan0778/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Aryan0778/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Aryan0778/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aryan0778/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryan0778/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
