@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aryan0778/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Aryan0778/LeetCode/tree/master/0134-gas-station) |
+| [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Aryan0778/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0330-patching-array](https://github.com/Aryan0778/LeetCode/tree/master/0330-patching-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryan0778/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aryan0778/LeetCode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Aryan0778/LeetCode/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Brainteaser
 |  |
 | ------- |
