@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryan0778/LeetCode/tree/master/0007-reverse-integer) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aryan0778/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aryan0778/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Aryan0778/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Aryan0778/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Brainteaser
 |  |
 | ------- |
