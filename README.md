@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aryan0778/LeetCode/tree/master/0007-reverse-integer) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Array
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Aryan0778/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Aryan0778/LeetCode/tree/master/3885-count-special-triplets) |
 ## Binary Search
 |  |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0022-generate-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
