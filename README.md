@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3885-count-special-triplets](https://github.com/Aryan0778/LeetCode/tree/master/3885-count-special-triplets) |
 ## Breadth-First Search
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aryan0778/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/Aryan0778/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Matrix
 |  |
 | ------- |
