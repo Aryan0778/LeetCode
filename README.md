@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aryan0778/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Aryan0778/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Aryan0778/LeetCode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3885-count-special-triplets](https://github.com/Aryan0778/LeetCode/tree/master/3885-count-special-triplets) |
 ## Breadth-First Search
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aryan0778/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Aryan0778/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Aryan0778/LeetCode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3893-generate-tag-for-video-caption](https://github.com/Aryan0778/LeetCode/tree/master/3893-generate-tag-for-video-caption) |
 ## Simulation
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aryan0778/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Aryan0778/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Aryan0778/LeetCode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Matrix
 |  |
 | ------- |
