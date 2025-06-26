@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aryan0778/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan0778/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aryan0778/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Aryan0778/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aryan0778/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan0778/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aryan0778/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Aryan0778/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan0778/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3483-alternating-groups-ii](https://github.com/Aryan0778/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aryan0778/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
