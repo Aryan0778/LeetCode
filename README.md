@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aryan0778/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aryan0778/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Aryan0778/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Aryan0778/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Aryan0778/LeetCode/tree/master/3885-count-special-triplets) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Aryan0778/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aryan0778/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Aryan0778/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Aryan0778/LeetCode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
