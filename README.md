@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Aryan0778/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Aryan0778/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/Aryan0778/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3738-make-array-non-decreasing](https://github.com/Aryan0778/LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/Aryan0778/LeetCode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Aryan0778/LeetCode/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Aryan0778/LeetCode/tree/master/3885-count-special-triplets) |
@@ -115,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
+| [3738-make-array-non-decreasing](https://github.com/Aryan0778/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
+| [3738-make-array-non-decreasing](https://github.com/Aryan0778/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Aryan0778/LeetCode/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Aryan0778/LeetCode/tree/master/0330-patching-array) |
+| [3738-make-array-non-decreasing](https://github.com/Aryan0778/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Divide and Conquer
 |  |
 | ------- |
