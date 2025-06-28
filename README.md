@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aryan0778/LeetCode/tree/master/0079-word-search) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Aryan0778/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Aryan0778/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan0778/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aryan0778/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Aryan0778/LeetCode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan0778/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3483-alternating-groups-ii](https://github.com/Aryan0778/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/Aryan0778/LeetCode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
