@@ -2,7 +2,7 @@ class Solution {
 public:
     int longestBeautifulSubstring(string s) {
         int n=s.size(),ans=0;
-        for(int i=1;i<n;i++){
+        for(int i=1;i<n;++i){
           int j=i,cnt=1;
           while(j<n && s[j-1]<=s[j]){
             if(s[j-1]<s[j]) cnt++;
