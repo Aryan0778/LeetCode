@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Aryan0778/LeetCode/tree/master/0134-gas-station) |
 | [0216-combination-sum-iii](https://github.com/Aryan0778/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Aryan0778/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Aryan0778/LeetCode/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Aryan0778/LeetCode/tree/master/0330-patching-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryan0778/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Aryan0778/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryan0778/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryan0778/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aryan0778/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/Aryan0778/LeetCode/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Aryan0778/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Tree
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Aryan0778/LeetCode/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
