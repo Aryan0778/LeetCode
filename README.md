@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aryan0778/LeetCode/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Aryan0778/LeetCode/tree/master/0330-patching-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryan0778/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan0778/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Aryan0778/LeetCode/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Aryan0778/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan0778/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan0778/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Aryan0778/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Aryan0778/LeetCode/tree/master/0134-gas-station) |
 | [0330-patching-array](https://github.com/Aryan0778/LeetCode/tree/master/0330-patching-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan0778/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [3738-make-array-non-decreasing](https://github.com/Aryan0778/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Divide and Conquer
 |  |
